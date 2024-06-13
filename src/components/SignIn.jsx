@@ -19,6 +19,9 @@ const SignIn = () => {
                     <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
                         <button className="btn btn-primary">Submit</button>
                     </div>
+                    <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+                    <p><a href="#" class="link-primary">new user ! click here</a></p>
+                    </div>
                 </div>
                 </div>
             </div>
